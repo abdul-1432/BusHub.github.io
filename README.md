@@ -4,7 +4,7 @@ Online Bus Ticket Booking System
 
 # DEMO
 
-You can see live Website [Demo]()
+You can see live website [Demo]()
 
 # preview
 
