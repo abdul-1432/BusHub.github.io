@@ -59,8 +59,7 @@ The Bus Ticket Booking System is an online platform that allows users to conveni
 
 ## Installation
 
-1. Clone the repository: 'https://github.com/abdul-1432/BusHub.github.io'
-
+1. Clone the repository: https://github.com/abdul-1432/BusHub.github.io
 2. Downoload ZIP file 
 3. Extract all Files
 4. Start running all files
@@ -71,7 +70,7 @@ The Bus Ticket Booking System is an online platform that allows users to conveni
 
 ## Contributing
 
-Contributions to this project are welcome. If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+I want you to know that contributions to this project are welcome. If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
 
