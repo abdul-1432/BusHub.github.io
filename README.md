@@ -4,7 +4,7 @@ Online Bus Ticket Booking System
 
 # DEMO
 
-You can see the live website [Demo](https://64cb900740a3896547b320bb--cute-donut-bc9c1b.netlify.app/)
+You can see the live website [Demo](https://gafoor.netlify.app/projects/web/bus%20reservation%20system/home)
 
 # preview
 
